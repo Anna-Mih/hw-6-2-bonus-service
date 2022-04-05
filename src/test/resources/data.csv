@@ -1,0 +1,4 @@
+"registered and under limit",true,100060,30
+"registered and over limit",true,100000060,500
+"unregistered and under limit",false,100060,10
+"unregistered and over limit",false,100000060,500
